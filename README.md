@@ -2,6 +2,8 @@
 Un ventilatore che si attiva quando si supera una certa soglia di temperatura.
 
 Realizzazione di un ventilatore con una scheda Arduino UNO R3, con accensione automatica quando la temperatura esterna è superiore ad una certa soglia.
+Tramite bottone può essere disattivata l'accensione automatica.
+Il display LCD mostra delle informazioni sulla temperatura.
 
 Componenti necessari:
   - UNO R3 Controller Board
